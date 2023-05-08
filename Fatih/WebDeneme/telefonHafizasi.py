@@ -21,7 +21,7 @@ def load_image(img_path, show=False):
     return img_tensor
 
     # load model
-model = load_model("Fatih\\CN_and_NN.h5")
+model = load_model("Fatih\\Fatih\\CN_and_NN.h5")
 
     # image path
 img_path = 'Fatih\\Fatih\\115.jpg'   
